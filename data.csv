@@ -1,0 +1,221 @@
+Challenge Stats Technology List;Challenge Stats Challenge Name;Challenge Stats Challenge Copilot;Challenge Stats Posting Date Date;Challenge Stats Project Category Name;Challenge Stats Registration End Date Date;Challenge Stats Scheduled End Date Date;Challenge Stats Status Desc;Challenge Stats Submitby Date Date;Challenge Stats First Place Prize;Challenge Stats Avg Raw Score;Challenge Stats Avg Final Score;Challenge Stats Num Registrations;Challenge Stats Num Submissions;Challenge Stats Num Submissions Passed Review;Challenge Stats Num Valid Submissions;Challenge Stats Total Prize
+0;[96hr]Poseidon developer portal Unit and e2e tests;copilot-a;2020-01-05;Code;2020-01-09;2020-01-12;Active;2020-01-09;800,00 US$;0;0;44;0;0;0;1.200,00 US$
+0;Clearwater - Page Analysis Tool Update Challenge;Copilot-b;2020-01-03;Code;2020-01-05;2020-01-11;Active;2020-01-08;900,00 US$;0;0;40;0;0;0;1.350,00 US$
+Ionic,TypeScript,UI Prototype;Juno - Augmented Reality Application;copilot-c;2020-01-04;Code;2020-01-08;2020-01-12;Active;2020-01-09;1.200,00 US$;0;0;41;0;0;0;1.800,00 US$
+0;Poseidon LPC Payment Backend API Unit and E2E Tests;copilot-c;2020-01-03;Code;2020-01-07;2020-01-12;Active;2020-01-08;800,00 US$;0;0;46;0;0;0;1.200,00 US$
+Android,Appium,Python,iOS;[72h] PoC - Appium Development VoLTE Test;copilot-c;2020-01-02;Code;2020-01-05;2020-01-09;Active;2020-01-05;800,00 US$;0;0;31;6;6;6;1.200,00 US$
+Apache Kafka,Elasticsearch,Node.js;Submission API | Fix Tests;copilot-d;2020-01-01;Code;2020-01-03;2020-01-08;Active;2020-01-04;800,00 US$;0;0;43;4;4;4;1.200,00 US$
+Elasticsearch,Node.js,PostgreSQL;Topcoder Project Service - Report ES/DB Data Mismatches - part 1 [repost];copilot-e;2020-01-02;Code;2020-01-07;2020-01-10;Active;2020-01-07;1.200,00 US$;0;0;52;1;1;1;1.800,00 US$
+Angular 2+,JavaScript,Node.js;[72hr]Poseidon's developer portal FrontEnd-Backend Integration Part 1;copilot-a;2019-12-29;Code;2020-01-01;2020-01-02;Completed;2020-01-01;600,00 US$;94,47;94,47;59;7;6;7;900,00 US$
+HTML,JavaScript,Node.js,Office365,XML;Email ID's Limitation - Outlook Add-in Desktop support & small tweaks;copilot-f;2019-12-28;Code;2020-01-02;2020-01-04;Completed;2020-01-02;600,00 US$;100;100;33;1;1;1;900,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 3 - Part 2;copilot-f;2019-12-27;Code;2020-01-01;2020-01-04;Cancelled - Client Request;2020-01-01;1.000,00 US$;0;0;22;0;0;0;1.500,00 US$
+Angular 4;[96 hrs] Talkscript Designer - Part 1;Copilot-g;2019-12-27;Code;2019-12-31;2020-01-03;Completed;2020-01-01;1.000,00 US$;73,08;84,91;44;2;2;2;1.500,00 US$
+Angular 2+,Node.js,PostgreSQL;SIA - Smart Investment Advisor: Node.js admin app;Copilot-m;2019-12-27;Code;2020-01-02;2020-01-05;Completed;2020-01-02;1.400,00 US$;93,5;94,83;49;2;2;2;2.100,00 US$
+Angular 4,Node.js,QA,TypeScript;PexComm - Bug Bash;copilot-c;2019-12-26;Code;2020-01-01;2020-01-19;Active;2020-01-15;2.400,00 US$;0;0;49;3;3;3;3.600,00 US$
+HTML,JavaScript,Jekyll,SCSS; Poseidon developer portal Jekyll theme;copilot-a;2019-12-26;Code;2019-12-30;2020-01-02;Completed;2019-12-31;1.000,00 US$;79,1;79,9;30;5;3;5;1.500,00 US$
+Java,ReactJS;Clearwater - Page Analysis Sonarqube Plugin PoC;Copilot-b;2019-12-26;Code;2019-12-28;2020-01-02;Completed;2019-12-31;1.000,00 US$;97;97;30;1;1;1;1.500,00 US$
+Elasticsearch,Node.js,PostgreSQL;Topcoder Project Service - Report ES/DB Data Mismatches - part 1 [repost];copilot-e;2019-12-25;Code;2019-12-30;2020-01-03;Cancelled - Zero Submissions;2019-12-30;1.000,00 US$;0;0;32;0;0;0;1.500,00 US$
+Python;Bijli - OCR Challenge;copilot-z;2019-12-24;Code;2020-01-01;2020-01-04;Draft;2020-01-01;2.000,00 US$;0;0;0;0;0;0;3.400,00 US$
+Python;Bijli - OCR Challenge;copilot-z;2019-12-24;Code;2020-01-01;2020-01-04;Draft;2020-01-01;2.000,00 US$;0;0;0;0;0;0;3.400,00 US$
+Data Science,Python;Bijli - OCR Challenge;copilot-z;2019-12-24;Code;2020-01-01;2020-01-03;Cancelled - Failed Review;2020-01-01;2.000,00 US$;17;32;81;1;0;1;3.400,00 US$
+AWS,Node.js,Other;Amazon Alexa Skill | Integrate with API;copilot-d;2019-12-24;Code;2019-12-26;2020-01-03;Completed;2019-12-29;600,00 US$;91,04;91,6;47;5;4;5;900,00 US$
+JavaScript,ReactJS;Topcoder Community App: Devices page - UI ReDesign - Repost ;copilot-i;2019-12-22;Code;2019-12-25;2019-12-27;Cancelled - Failed Review;2019-12-25;500,00 US$;77,5;77,5;29;1;0;1;750,00 US$
+API,Node.js,TypeScript;[72hr]Poseidon's developer portal Backend API Part 1;copilot-a;2019-12-23;Code;2019-12-26;2019-12-28;Completed;2019-12-27;800,00 US$;96,89;96,89;37;2;2;2;1.200,00 US$
+Angular 2+,HTML,JavaScript,SCSS,TypeScript;Poseidon's developer portal UI Prototype Part 1;copilot-a;2019-12-20;Code;2019-12-24;2019-12-28;Completed;2019-12-24;800,00 US$;85,03;87,96;38;5;4;5;1.200,00 US$
+HTML,JavaScript,Jekyll,SCSS; Poseidon developer portal Jekyll theme;copilot-a;2019-12-20;Code;2019-12-24;2019-12-27;Cancelled - Failed Review;2019-12-24;800,00 US$;74,08;74,08;29;1;0;1;1.200,00 US$
+Angular 2+,TypeScript;Wellmark Benefits CRM- Update Unit Tests;copilot-a;2019-12-21;Code;2019-12-25;2019-12-28;Completed;2019-12-25;800,00 US$;69,4;75,96;35;4;2;4;1.200,00 US$
+Angular 2+,HTML5,SCSS;Firefly OSCUR UI Prototype Challenge;copilot-k;2019-12-20;Code;2019-12-22;2019-12-29;Completed;2019-12-27;1.400,00 US$;82;82,44;27;3;2;3;2.100,00 US$
+0;[36hr] Wellmark Benefits CRM Mock API Developement;copilot-a;2019-12-20;Code;2019-12-21;2019-12-24;Draft;2019-12-21;400,00 US$;0;0;0;0;0;0;600,00 US$
+Angular 4,Node.js,QA,TypeScript;PexComm Bug Hunt;copilot-c;2019-12-20;Code;2019-12-22;2019-12-24;Completed;2019-12-22;600,00 US$;70;70;40;7;7;7;1.020,00 US$
+Angular 2+,HTML5,SCSS;Firefly Subpoena UI Prototype;copilot-k;2019-12-20;Code;2019-12-22;2019-12-29;Completed;2019-12-26;1.400,00 US$;86,41;86,41;44;2;2;2;2.100,00 US$
+Appium,Mobile,Python,QA;PoC - Appium Development SMS Test;copilot-c;2019-12-20;Code;2019-12-24;2019-12-29;Completed;2019-12-26;800,00 US$;66,96;73,9;38;5;4;5;1.300,00 US$
+0;Emerald - Hub Application Prototype Challenge;Copilot-l;2019-12-20;Code;2019-12-25;2019-12-28;Draft;2019-12-25;1.400,00 US$;0;0;0;0;0;0;2.100,00 US$
+CSS,JavaScript,Office365,XML;Email ID's Limitation - Outlook Web Add-in Development;copilot-f;2019-12-18;Code;2019-12-23;2019-12-27;Completed;2019-12-23;800,00 US$;60,94;62,72;29;3;1;3;1.200,00 US$
+Other;FS Regression cycle 3 - Challenge 10;;2019-12-18;Code;2019-12-20;2019-12-24;Completed;2019-12-20;150,00 US$;99;99;9;1;1;1;150,00 US$
+Other;FS Regression cycle 3 - Challenge 9;;2019-12-18;Code;2019-12-20;2019-12-25;Active;2019-12-21;150,00 US$;0;0;4;0;0;0;150,00 US$
+Other;FS Regression cycle 3 - Challenge 8;;2019-12-18;Code;2019-12-20;2019-12-25;Active;2019-12-21;150,00 US$;0;0;3;0;0;0;150,00 US$
+Other;FS Regression cycle 3 - Challenge 7;;2019-12-18;Code;2019-12-20;2019-12-24;Completed;2019-12-21;150,00 US$;98,11;98,11;3;1;1;1;150,00 US$
+Other;FS Regression cycle 3 - Challenge 6;;2019-12-18;Code;2019-12-20;2019-12-24;Completed;2019-12-21;150,00 US$;99;99;3;1;1;1;150,00 US$
+Other;FS Regression cycle 3 - Challenge 5;;2019-12-18;Code;2019-12-20;2019-12-24;Completed;2019-12-21;150,00 US$;97;97;6;1;1;1;150,00 US$
+Other;FS Regression cycle 3 - Challenge 4;;2019-12-18;Code;2019-12-20;2019-12-24;Completed;2019-12-21;150,00 US$;99;99;12;1;1;1;150,00 US$
+HTML5,OCR,Python;SIA - Smart Investment Advisor - OCR proof of concept;Copilot-m;2019-12-18;Code;2019-12-25;2019-12-28;Completed;2019-12-25;850,00 US$;71,36;79,23;34;5;2;5;1.275,00 US$
+Angular 2+,Node.js,PostgreSQL;SIA - Smart Investment Advisor: Node.js admin app;Copilot-m;2019-12-18;Code;2019-12-23;2019-12-27;Cancelled - Failed Review;2019-12-23;1.100,00 US$;31,44;31,44;35;2;0;2;1.650,00 US$
+Angular 2+,Angular 4;Underwriting UI - Increase Unit Testing coverage;copilot-n;2019-12-17;Code;2019-12-21;2019-12-24;Completed;2019-12-22;800,00 US$;72,47;95,47;30;1;1;1;1.200,00 US$
+Angular 2+,Angular 4;Binder Portal UI - Increase Unit Testing coverage;copilot-n;2019-12-17;Code;2019-12-21;2019-12-23;Completed;2019-12-21;800,00 US$;95,86;95,86;28;1;1;1;1.200,00 US$
+Angular 2+,Angular 4,Node.js,QA;Employer Portal increase Unit Testing coverage;copilot-n;2019-12-17;Code;2019-12-21;2019-12-24;Completed;2019-12-22;800,00 US$;53,12;53,12;32;3;1;3;1.200,00 US$
+AWS,Apache Kafka,Github,Microsoft Azure,Node.js;Redwood - Azure / GitHub Sync Tool Switch receiver to AWS Kinesis;copilot-n;2019-12-17;Code;2019-12-19;2019-12-22;Completed;2019-12-19;400,00 US$;94,91;94,91;15;3;3;3;600,00 US$
+Node.js;Mobie Movies API Nodejs Wrapper;copilot-d;2019-12-17;Code;2019-12-19;2019-12-21;Completed;2019-12-19;600,00 US$;92,29;92,29;32;3;3;3;900,00 US$
+Android,JavaScript,ReactJS,iOS;Poisedon - LPC payment React Native sdk part 1;copilot-a;2019-12-15;Code;2019-12-19;2019-12-21;Completed;2019-12-19;1.400,00 US$;87,72;94,31;28;1;1;1;2.100,00 US$
+Data Science,Python;Hugo  - KPIs ideation challenge;Copilot-m;2020-01-03;Code;2020-01-10;2020-01-13;Active;2020-01-10;2.000,00 US$;0;0;61;0;0;0;3.400,00 US$
+QA;Test Scenarios and Test Case Summaries - Dashboard Screen, Header-and-Footer and Logout function;copilot-o;2019-12-23;Code;2019-12-25;2020-01-10;Active;2019-12-27;600,00 US$;0;0;29;11;11;11;900,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 2 - Part 2;copilot-f;2019-12-14;Code;2019-12-22;2019-12-26;Cancelled - Failed Review;2019-12-22;1.000,00 US$;69;78,5;20;1;0;1;1.500,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 2 - Part 1;copilot-f;2019-12-14;Code;2019-12-19;2019-12-22;Completed;2019-12-19;1.000,00 US$;80,33;91;24;1;1;1;1.500,00 US$
+Data Science,Python;CFO Forecast Challenge -- Average Revenue Per User;copilot-h;2019-12-16;Code;2019-12-30;2020-01-03;Active;2019-12-30;3.000,00 US$;0;0;76;11;11;11;5.950,00 US$
+AWS,Node.js,REST,TypeScript;Poseidon LPC Payment Backend API (Loyalty) Challenge;copilot-c;2019-12-13;Code;2019-12-17;2019-12-22;Completed;2019-12-19;1.200,00 US$;87,11;88;45;2;2;2;1.800,00 US$
+JavaScript,ReactJS;Topcoder Community App: Devices page - UI ReDesign - Repost ;copilot-i;2019-12-19;Code;2019-12-22;2019-12-24;Cancelled - Zero Submissions;2019-12-22;400,00 US$;0;0;21;0;0;0;600,00 US$
+QA;Topcoder - Test Case creation - Profile and Settings Pages;copilot-o;2019-12-14;Code;2019-12-16;2020-01-02;Completed;2019-12-18;600,00 US$;59,16;59,58;59;12;12;12;900,00 US$
+AWS,Elasticsearch,Node.js,ReactJS;Topcoder - Integrate Community App with the V5 Challenge API;copilot-n;2019-12-12;Code;2019-12-16;2019-12-20;Cancelled - Failed Review;2019-12-17;800,00 US$;55,56;55,56;33;1;0;1;1.200,00 US$
+Angular 4,Node.js,TypeScript;PexComm -  Final Integration and UX Library Update;copilot-c;2019-12-12;Code;2019-12-16;2019-12-19;Completed;2019-12-17;800,00 US$;89,39;94,94;36;3;3;3;1.200,00 US$
+Java;72Hrs - Orientdb Spring Data Plugin - Add Depth Support for Query;Copilot-b;2019-12-12;Code;2019-12-15;2019-12-16;Completed;2019-12-15;600,00 US$;100;100;18;1;1;1;900,00 US$
+Git,Github;24 hours!! - Topcoder Hour of Code PLUS - Fun challenge - Getting started with GitHub;copilot-f;2019-12-11;Code;2019-12-12;2019-12-14;Completed;2019-12-12;25,00 US$;92,17;92,17;68;46;46;46;125,00 US$
+Node.js,QA,ReactJS;Thor - Technical Assessment Tool - Bug Bush - Fix Final Issues;copilot-c;2019-12-08;Code;2019-12-22;2020-01-05;Active;2019-12-22;2.000,00 US$;0;0;45;1;1;1;2.000,00 US$
+Neo4J,QA;[96 hrs] Topcoder Groups API - Robust E2E tests;Copilot-g;2019-12-07;Code;2019-12-11;2019-12-12;Completed;2019-12-11;1.000,00 US$;84,67;90,33;23;2;2;2;1.500,00 US$
+JavaScript;[96 hrs] Topcoder CLI - Robust Unit tests;Copilot-g;2019-12-07;Code;2019-12-11;2019-12-12;Completed;2019-12-11;800,00 US$;90,58;90,58;23;2;2;2;1.200,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 3 -  Part 1;copilot-f;2019-12-07;Code;2019-12-18;2019-12-21;Completed;2019-12-18;1.400,00 US$;82,33;82,33;30;1;1;1;2.100,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 2 - Part 2;copilot-f;2019-12-07;Code;2019-12-14;2019-12-17;Cancelled - Zero Submissions;2019-12-14;800,00 US$;0;0;28;0;0;0;1.200,00 US$
+.NET,C#,QA,Selenium;ABB RCS - Automated testing implementation and report generation - Sprint 2 - Part 1;copilot-f;2019-12-07;Code;2019-12-14;2019-12-17;Cancelled - Zero Submissions;2019-12-14;800,00 US$;0;0;37;0;0;0;1.200,00 US$
+Node.js;Informix2postgres Migration Series: Compare Database tables and Generate Report;;2019-12-06;Code;2019-12-10;2019-12-16;Completed;2019-12-12;400,00 US$;64,02;64,32;25;3;2;3;600,00 US$
+QA;24 hours!! - Topcoder Hour of Code PLUS - Fun Challenge - Basic skills for QA track;copilot-p;2019-12-11;Code;2019-12-12;2019-12-14;Completed;2019-12-12;25,00 US$;93,03;93,03;52;33;33;33;250,00 US$
+iOS;Poisedon - LPC payment iOS sdk part 1;copilot-a;2019-12-06;Code;2019-12-11;2019-12-14;Completed;2019-12-11;1.200,00 US$;86,8;87,22;20;3;3;3;1.800,00 US$
+Apache Cordova,iOS;MyWellmark  iOS App Integrate Qualtrics;copilot-a;2019-12-05;Code;2019-12-14;2019-12-17;Completed;2019-12-14;1.600,00 US$;91,61;92,16;19;3;2;3;2.400,00 US$
+Android,Apache Cordova;MyWellmark  Android App Integrate Qualtrics;copilot-a;2019-12-05;Code;2019-12-14;2019-12-18;Completed;2019-12-14;1.600,00 US$;85,75;87,91;29;4;3;4;2.400,00 US$
+Android,Java;Poisedon - LPC payment Android sdk part 1;copilot-a;2019-12-06;Code;2019-12-11;2019-12-14;Completed;2019-12-11;1.200,00 US$;85,95;87,51;29;4;3;4;1.800,00 US$
+Elasticsearch,MongoDB,Node.js;[48 hrs] Lookup API: Enhance Device Lookup and Fix Tests;copilot-i;2019-12-06;Code;2019-12-08;2019-12-10;Completed;2019-12-08;500,00 US$;92,69;92,84;20;3;3;3;750,00 US$
+Angular 2+,Angular 4,Node.js,QA;Employer Portal increase Unit Testing coverage;copilot-n;2019-12-05;Code;2019-12-10;2019-12-14;Cancelled - Failed Review;2019-12-11;800,00 US$;68,33;68,33;30;1;0;1;1.200,00 US$
+AWS,Docker,Elasticsearch,Node.js,Swagger;Fast 24h - Topcoder -  Improve V5 Challenge API;copilot-n;2019-12-05;Code;2019-12-06;2019-12-09;Completed;2019-12-07;600,00 US$;68,21;68,46;18;5;4;5;900,00 US$
+Data Science,Python;Phase 2 Conflict World Prescribe Challenge;copilot-h;2019-12-06;Code;2019-12-30;2020-01-14;Active;2019-12-31;5.000,00 US$;0;0;50;9;9;9;10.000,00 US$
+Data Science,Python;Phase 2 Urban World Prescribe Challenge;copilot-h;2019-12-06;Code;2019-12-30;2020-01-14;Active;2019-12-31;10.000,00 US$;0;0;70;11;11;11;20.000,00 US$
+API,AWS,JavaScript,Node.js;Topbot - Client Teams Lambda implementation & Central TC Lambda enhancement;copilot-f;2019-12-05;Code;2019-12-10;2019-12-12;Completed;2019-12-10;800,00 US$;86,17;86,17;22;1;1;1;1.400,00 US$
+CSS,HTML,JSON,JavaScript,Node.js,ReactJS;NextGen CLE Command Center UI Prototype - Part 1 Challenge;copilot-u;2019-12-05;Code;2019-12-08;2019-12-15;Cancelled - Client Request;2019-12-11;2.000,00 US$;0;0;21;0;0;0;3.000,00 US$
+Data Science,Python;Phase 2 Power World Prescribe Challenge;Copilot-m;2019-12-06;Code;2019-12-31;2020-01-14;Active;2019-12-31;5.000,00 US$;0;0;53;7;7;7;10.000,00 US$
+Data Science,Python;Phase 2 Disaster World Prescribe Challenge;Copilot-m;2019-12-06;Code;2019-12-31;2020-01-14;Active;2019-12-31;5.000,00 US$;0;0;57;9;9;9;10.000,00 US$
+Angular 2+,Angular 4,Node.js;Underwriting Angular Upgrade;copilot-n;2019-12-04;Code;2019-12-09;2019-12-13;Completed;2019-12-09;1.500,00 US$;86,98;89,61;59;7;6;7;2.500,00 US$
+Angular 2+,Angular 4,Node.js;Binder Portal Angular Upgrade;copilot-n;2019-12-04;Code;2019-12-09;2019-12-12;Completed;2019-12-09;1.500,00 US$;85,65;85,85;51;9;9;9;2.500,00 US$
+Word/Rich Text;December Big Give - Thrive Twist;copilot-q;2019-12-03;Code;2019-12-31;2020-01-01;Completed;2019-12-31;0,00 US$;100;100;98;25;25;25;0,00 US$
+0;Development forum with no discussions - Topgear;;2019-12-03;Code;2019-12-05;2019-12-11;Draft;2019-12-08;350,00 US$;0;0;0;0;0;0;500,00 US$
+AWS,Docker,Node.js,TypeScript;Poisedon - LPC payment backend API;copilot-c;2019-12-03;Code;2019-12-07;2019-12-11;Completed;2019-12-08;1.200,00 US$;40,08;80,17;54;1;1;1;1.800,00 US$
+Android,Java;Poseidon Android app launch background poc;copilot-a;2019-11-30;Code;2019-12-05;2019-12-08;Completed;2019-12-05;800,00 US$;92,99;95,04;46;4;4;4;1.200,00 US$
+Swift,iOS;Poseidon iOS app launch background poc;copilot-a;2019-11-30;Code;2019-12-05;2019-12-08;Completed;2019-12-05;800,00 US$;91,66;93,22;21;3;3;3;1.200,00 US$
+Docker,Node.js;DX Development Tooling - Code Update;Copilot-l;2019-11-30;Code;2019-12-05;2019-12-07;Completed;2019-12-05;1.000,00 US$;62,93;62,93;36;7;4;7;1.500,00 US$
+Angular 2+,HTML,JavaScript,SCSS;[96hr] Benefits CRM prototype part 1;copilot-a;2019-11-30;Code;2019-12-04;2019-12-05;Completed;2019-12-04;1.400,00 US$;91,83;95,16;49;2;2;2;2.100,00 US$
+.NET,C#,QA,Xamarin;ABB RCS Mobile - Xamarin Tablet App Prototype - Bug Bash;copilot-f;2019-11-29;Code;2019-12-07;2019-12-15;Completed;2019-12-07;350,00 US$;100;100;18;1;1;1;350,00 US$
+Angular 2+,Node.js,TypeScript;PexComm - Angular Frontend Integration;copilot-c;2019-11-29;Code;2019-12-03;2019-12-07;Completed;2019-12-04;1.200,00 US$;80,36;82,36;67;5;3;5;1.800,00 US$
+0;Add unit testing on the data scraper and the Sitemap API;copilot-n;2019-12-02;Code;2019-12-06;2019-12-09;Draft;2019-12-06;800,00 US$;0;0;0;0;0;0;1.200,00 US$
+JavaScript,ReactJS;Topcoder Community App: Devices page - UI ReDesign - Repost ;copilot-i;2019-11-29;Code;2019-12-03;2019-12-05;Completed;2019-12-03;600,00 US$;93,33;93,33;29;1;1;1;900,00 US$
+Node.js,TypeScript;[96h] Pexcomm - Backend Application - Reports;copilot-c;2019-11-27;Code;2019-12-01;2019-12-05;Completed;2019-12-02;800,00 US$;82,83;85,25;47;4;3;4;1.200,00 US$
+Apache Kafka,Node.js;Topcoder-X - November 2019 Release Challenge;Copilot-m;2019-11-28;Code;2019-12-03;2019-12-06;Completed;2019-12-03;550,00 US$;94,22;94,22;23;1;1;1;825,00 US$
+QA;Test for Success Challenge Series - QA Challenge 51 (Regression Testing);copilot-j;2019-12-02;Code;2019-12-04;2019-12-13;Completed;2019-12-04;242,50 US$;28,75;28,75;50;24;9;24;2.928,85 US$
+QA;Test for Success Challenge Series - QA Challenge 50 (Bug Hunt);copilot-j;2019-11-28;Code;2019-11-30;2019-12-11;Completed;2019-11-30;750,00 US$;42,14;42,14;37;14;9;14;2.000,00 US$
+JavaScript;[Fast 72 hrs] Topcoder CLI - Bug fixes and Enhancements;Copilot-g;2019-11-28;Code;2019-12-01;2019-12-04;Completed;2019-12-02;600,00 US$;87,46;91,79;35;4;4;4;900,00 US$
+.NET,API;[Prize Increased] NextGen Imaging Mock Services;copilot-r;2019-11-27;Code;2019-11-30;2019-12-06;Cancelled - Zero Submissions;2019-12-02;800,00 US$;0;0;30;0;0;0;1.450,00 US$
+Angular 2+,HTML5,JavaScript,SCSS;[36hr]CRM Angular Component Library Challenge;copilot-a;2019-11-27;Code;2019-11-29;2019-11-30;Completed;2019-11-29;800,00 US$;90,91;91,91;33;2;2;2;1.200,00 US$
+Java,PostgreSQL;Topcoder - Informix2postgres migration series: Migrate Identity-Service;;2019-11-26;Code;2019-11-30;2019-12-07;Completed;2019-12-03;750,00 US$;89,34;90,54;40;4;4;4;1.150,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec56 Task, period #5;copilot-s;2019-11-25;Code;2019-12-09;2020-02-04;Active;2019-12-09;500,00 US$;0;0;72;45;45;45;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp56 Task, period #5;copilot-s;2019-11-25;Code;2019-12-09;2020-02-04;Active;2019-12-09;500,00 US$;0;0;64;43;43;43;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec34 Task, period #5;copilot-s;2019-11-25;Code;2019-12-09;2020-01-21;Active;2019-12-09;500,00 US$;0;0;65;43;43;43;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp34 Task, period #5;copilot-s;2019-11-25;Code;2019-12-09;2020-01-21;Active;2019-12-09;500,00 US$;0;0;65;43;43;43;1.375,00 US$
+Node.js;JWT and POP JWT Security Analysis Challenge;Copilot-b;2019-11-25;Code;2019-11-27;2019-12-02;Completed;2019-11-30;600,00 US$;78,57;78,57;47;7;7;7;1.200,00 US$
+Angular 4;Employer Portal Angular Upgrade;copilot-n;2019-11-25;Code;2019-11-30;2019-12-05;Completed;2019-12-02;1.500,00 US$;80,43;84,7;73;5;4;5;2.500,00 US$
+Node.js;Topcoder v5 Challenge API | Nodejs based Wrapper - Part 3;copilot-d;2019-11-22;Code;2019-11-24;2019-11-27;Completed;2019-11-24;600,00 US$;87,68;87,99;24;9;7;9;900,00 US$
+Apache Kafka,Node.js;Topcoder v5 Challenge Forum - Clean up initial processor proof of concept;Copilot-m;2019-11-22;Code;2019-11-28;2019-12-01;Completed;2019-11-28;550,00 US$;88,36;92,08;27;6;5;6;825,00 US$
+AWS,Node.js;Topbot - Client Slack Lambda implementation & Central TC Lambda enhancement;copilot-f;2019-11-21;Code;2019-11-26;2019-11-29;Completed;2019-11-26;800,00 US$;48,33;49,66;30;2;1;2;1.400,00 US$
+Node.js,REST,TypeScript;24H Media Library Image Processor #3;Copilot-l;2019-11-21;Code;2019-11-22;2019-11-25;Completed;2019-11-22;600,00 US$;75,14;75,74;24;5;2;5;900,00 US$
+Elasticsearch,JavaScript,Node.js;Topcoder - Create Resource ES Processor;copilot-c;2019-11-20;Code;2019-11-24;2019-11-30;Completed;2019-11-25;800,00 US$;89,09;90,27;39;9;7;9;1.200,00 US$
+0;Loyalty Payment Card(LPC) - Architecture SPIKE Ideation Challenge;copilot-c;2019-11-21;Code;2019-11-23;2019-11-30;Draft;2019-11-26;350,00 US$;0;0;0;0;0;0;500,00 US$
+Android,iOS;LPC - Architecture SPIKE ideation challenge;copilot-a;2019-11-19;Code;2019-11-24;2019-11-28;Completed;2019-11-24;800,00 US$;65;65;45;8;8;8;1.400,00 US$
+Java;Orientdb Spring Data - Gremlin Support;Copilot-b;2019-11-20;Code;2019-11-22;2019-11-27;Completed;2019-11-25;1.200,00 US$;81,39;81,39;34;1;1;1;1.800,00 US$
+Node.js,Python;PDF Converter API Challenge;Copilot-l;2019-11-22;Code;2019-11-27;2019-11-30;Completed;2019-11-27;1.400,00 US$;69,4;72,37;67;7;4;7;2.100,00 US$
+JavaScript,Node.js;[96h] Pexcomm - Backend Application - Reports;copilot-c;2019-11-18;Code;2019-11-23;2019-11-27;Completed;2019-11-24;1.200,00 US$;72,83;74,04;82;4;2;4;1.800,00 US$
+JavaScript,Node.js;[72h] Topcoder - Update legacy challenge migration script (Project Payment);copilot-c;2019-11-18;Code;2019-11-21;2019-11-25;Cancelled - Client Request;2019-11-21;400,00 US$;0;0;32;0;0;0;600,00 US$
+Angular 2+,TypeScript,UI Prototype;PexComm - Angular Frontend UI prototype;copilot-c;2019-11-20;Code;2019-11-24;2019-11-28;Completed;2019-11-25;1.200,00 US$;84,69;86,19;60;6;4;6;1.800,00 US$
+0;[96h] Pexcomm - Backend Application - Reports;copilot-c;2019-11-18;Code;2019-11-22;2019-11-27;Cancelled - Client Request;2019-11-23;1.200,00 US$;0;0;0;0;0;0;1.800,00 US$
+Python,QA;Holdings Cross Reference Re-Skin Unstructured Bug Hunt Challenge;copilot-t;2019-11-16;Code;2019-11-17;2019-11-26;Completed;2019-11-19;300,00 US$;72,5;72,5;34;8;8;8;695,00 US$
+.NET,C#,QA,Selenium;ABB RCS Automation Testing - Automated testing implementation and report generation - Sprint 2;copilot-f;2019-11-14;Code;2019-11-25;2019-11-28;Completed;2019-11-25;1.200,00 US$;90;90;69;3;3;3;3.050,00 US$
+Apache Kafka,Bash,Docker;Topcoder Project Service - Improve local setup;copilot-e;2019-11-13;Code;2019-11-17;2019-11-22;Completed;2019-11-17;800,00 US$;74,05;85,77;37;6;4;6;1.200,00 US$
+Npm,ReactJS;Topcoder React Components - Migrate to React 16;copilot-e;2019-11-13;Code;2019-11-17;2019-11-21;Completed;2019-11-17;500,00 US$;56,7;57,89;41;5;3;5;750,00 US$
+Angular 2+,Node.js;Thor Power Xpert Polymer 2.7.1 Upgrade - Part 1;copilot-u;2019-11-13;Code;2019-11-18;2019-11-20;Cancelled - Zero Submissions;2019-11-18;1.200,00 US$;0;0;57;0;0;0;1.800,00 US$
+Elasticsearch,JavaScript,Node.js;[72h] Topcoder API - Add Elastic Search to TC Resource API;copilot-c;2019-11-13;Code;2019-11-16;2019-11-19;Completed;2019-11-16;400,00 US$;96,08;96,75;34;2;2;2;600,00 US$
+QA;Test for Success Challenge Series - QA Challenge 49 (Regression Testing);copilot-j;2019-11-18;Code;2019-11-20;2019-11-26;Completed;2019-11-20;349,20 US$;28;28;59;25;9;25;3.087,50 US$
+QA;Test for Success Challenge Series - QA Challenge 48 (Bug Hunt);copilot-j;2019-11-14;Code;2019-11-16;2019-11-25;Completed;2019-11-16;750,00 US$;61,25;61,25;43;8;8;8;1.916,50 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec56 Task, period #4;copilot-s;2019-11-11;Code;2019-11-25;2020-01-21;Active;2019-11-25;500,00 US$;0;0;72;36;36;36;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp56 Task, period #4;copilot-s;2019-11-11;Code;2019-11-25;2020-01-21;Active;2019-11-25;500,00 US$;0;0;64;36;36;36;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec34 Task, period #4;copilot-s;2019-11-11;Code;2019-11-25;2020-01-04;Completed;2019-11-25;500,00 US$;51,11;51,11;64;36;36;36;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp34 Task, period #4;copilot-s;2019-11-11;Code;2019-11-25;2020-01-04;Completed;2019-11-25;500,00 US$;51,11;51,11;67;36;36;36;1.375,00 US$
+Other;Help Come Up With New Dashboard Widget Ideas;copilot-u;2019-11-11;Code;2019-11-16;2019-11-27;Completed;2019-11-16;200,00 US$;28,42;28,42;58;19;5;19;650,00 US$
+0;[Do not register] Sample challenge for Automation.;copilot-v;2019-11-11;Code;2020-11-15;2020-11-20;Active;2020-11-17;10,00 US$;0;0;14;4;4;4;15,00 US$
+0;Sample Challenge for Automation;copilot-v;2019-11-12;Code;2019-11-14;2019-11-20;Draft;2019-11-17;350,00 US$;0;0;0;0;0;0;500,00 US$
+CSS,JavaScript;Juno ZIO Mobile - Front End Development (Flutter);copilot-i;2019-11-14;Code;2019-11-18;2019-11-24;Cancelled - Failed Review;2019-11-19;1.200,00 US$;61;64,17;61;2;0;2;1.800,00 US$
+QA;Test Scenarios and Test Case Summaries - My Profile and Settings Pages ;copilot-o;2019-11-07;Code;2019-11-09;2019-11-22;Completed;2019-11-13;900,00 US$;64,54;64,54;48;11;11;11;1.350,00 US$
+API,Docker,Express,Heroku,Node.js,PostgreSQL;72 hours!! - Topcoder Arena 3.0 - SRM problem fetching API implementation;copilot-f;2019-11-06;Code;2019-11-10;2019-11-13;Completed;2019-11-10;800,00 US$;71,99;75,11;37;5;3;5;1.200,00 US$
+0; Identify The Cause Of An Error;copilot-u;2019-11-07;Code;2019-11-09;2019-11-15;Draft;2019-11-12;350,00 US$;0;0;0;0;0;0;500,00 US$
+REST;API Gateway Design Ideation;Copilot-l;2019-11-08;Code;2019-11-15;2019-11-20;Completed;2019-11-15;1.000,00 US$;64,28;64,28;55;7;7;7;2.400,00 US$
+Java;Orientdb Spring Data Plugin - Spring REST Support and Demo;Copilot-b;2019-11-05;Code;2019-11-07;2019-11-12;Completed;2019-11-10;800,00 US$;93,67;93,67;41;1;1;1;1.200,00 US$
+Node.js,ReactJS;Topcoder Challenge Engine UI - November 2019 updates;Copilot-m;2019-11-06;Code;2019-11-08;2019-11-15;Completed;2019-11-11;650,00 US$;85,95;86,45;45;4;3;4;975,00 US$
+Database,Node.js;Topcoder - Update legacy challenge migration script (Resource);copilot-c;2019-11-06;Code;2019-11-09;2019-11-15;Completed;2019-11-11;600,00 US$;94,72;97,61;31;3;3;3;900,00 US$
+QA;Topcoder - Test Case creation - Series 3 (Challenge Details, Submission and View Submission Page);copilot-w;2019-11-05;Code;2019-11-07;2019-11-13;Completed;2019-11-09;600,00 US$;66,87;68,12;58;8;8;8;900,00 US$
+Node.js,Other;[72h] Topcoder APIs and Zapier integration;copilot-c;2019-11-02;Code;2019-11-05;2019-11-08;Completed;2019-11-05;800,00 US$;76,58;77,83;58;8;6;8;1.200,00 US$
+.NET,C#,QA,Selenium;ABB RCS Automation Testing - Drag & Drop automation implementation for Sprint 1;copilot-f;2019-11-02;Code;2019-11-08;2019-11-24;Cancelled - Zero Submissions;2019-11-08;850,00 US$;0;0;39;0;0;0;1.275,00 US$
+QA;Exploratory Testing for  suite of service website;copilot-v;2019-10-31;Code;2019-11-01;2019-11-07;Completed;2019-11-04;600,00 US$;29,6;30;49;25;19;25;1.100,00 US$
+0;Thor EAT Phase 2 Bug Fixes Challenge;copilot-u;2019-11-01;Code;2019-11-03;2019-11-09;Draft;2019-11-06;350,00 US$;0;0;0;0;0;0;500,00 US$
+0;Thor EAT Phase 2 Code Quality Challenge;copilot-u;2019-11-01;Code;2019-11-03;2019-11-09;Draft;2019-11-06;350,00 US$;0;0;0;0;0;0;500,00 US$
+0;Thor EAT Phase 2 Frontend Code Updates Part 2 Challenge;copilot-u;2019-11-01;Code;2019-11-03;2019-11-09;Draft;2019-11-06;350,00 US$;0;0;0;0;0;0;500,00 US$
+0;Thor EAT Phase 2 Backend Code Updates Part 2 Challenge;copilot-u;2019-11-01;Code;2019-11-03;2019-11-09;Draft;2019-11-06;350,00 US$;0;0;0;0;0;0;500,00 US$
+0;Thor EAT Phase 2 Frontend Code Updates Part 1 Challenge;copilot-u;2019-11-01;Code;2019-11-03;2019-11-09;Draft;2019-11-06;350,00 US$;0;0;0;0;0;0;500,00 US$
+API,Java,Maven,SQL Server,Spring;Thor EAT Phase 2 Backend Code Updates Part 1 Challenge;copilot-u;2019-11-06;Code;2019-11-08;2019-11-15;Completed;2019-11-12;2.000,00 US$;75,04;88,48;46;2;2;2;3.000,00 US$
+AWS,Node.js;Amazon Alexa Skill | Movie ticket booking experience showcase;copilot-d;2019-10-31;Code;2019-11-02;2019-11-05;Completed;2019-11-02;800,00 US$;87,33;87,55;43;3;2;3;1.200,00 US$
+QA;MyWellmark Accessibility Bug Hunt ;copilot-a;2019-10-30;Code;2019-11-01;2019-11-02;Completed;2019-11-01;300,00 US$;65;65;32;8;8;8;600,00 US$
+Node.js;24h - Build a NodeJs data comparison tool;copilot-n;2019-10-30;Code;2019-10-31;2019-11-01;Completed;2019-10-31;600,00 US$;91,23;91,31;47;17;17;17;1.000,00 US$
+QA;Test for Success Challenge Series - QA Challenge 47 (Regression Testing);copilot-j;2019-11-04;Code;2019-11-06;2019-11-15;Completed;2019-11-07;439,00 US$;28,75;28,75;53;24;9;24;2.725,70 US$
+QA;Test for Success Challenge Series - QA Challenge 46 (Bug Hunt);copilot-j;2019-11-01;Code;2019-11-03;2019-11-13;Completed;2019-11-03;750,00 US$;70;70;31;7;7;7;1.909,50 US$
+.NET,Database,Entity-Framework,Other;NextGen Imaging - Unified Model Technical Design Challenge;copilot-u;2019-10-29;Code;2019-11-01;2019-11-07;Cancelled - Failed Review;2019-11-03;2.000,00 US$;34;34;41;2;0;2;3.500,00 US$
+0;Hercules C++ Spark App - Webkit reduction;Copilot-m;2019-10-29;Code;2019-11-03;2019-11-07;Draft;2019-11-03;2.700,00 US$;0;0;0;0;0;0;4.050,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec56 Task, period #3;copilot-s;2019-10-28;Code;2019-11-11;2020-01-04;Completed;2019-11-11;500,00 US$;52,28;52,28;71;35;35;35;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp56 Task, period #3;copilot-s;2019-10-28;Code;2019-11-11;2020-01-04;Completed;2019-11-11;500,00 US$;52,28;52,28;61;35;35;35;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec34 Task, period #3;copilot-s;2019-10-28;Code;2019-11-11;2019-12-23;Completed;2019-11-11;500,00 US$;52,28;52,28;59;35;35;35;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp34 Task, period #3;copilot-s;2019-10-28;Code;2019-11-11;2019-12-23;Completed;2019-11-11;500,00 US$;52,28;52,28;61;35;35;35;1.375,00 US$
+.NET,IIS,Other;NextGen Imaging - Error Document Analysis Challenge;copilot-u;2019-10-29;Code;2019-10-31;2019-11-07;Cancelled - Zero Submissions;2019-11-03;2.000,00 US$;0;0;42;0;0;0;3.500,00 US$
+API,JavaScript,Node.js;72 hours!! - Topbot - MS Team bot Connect Integration;copilot-f;2019-10-26;Code;2019-10-29;2019-10-31;Completed;2019-10-29;400,00 US$;82,65;85,93;23;2;1;2;600,00 US$
+JavaScript,ReactJS;Topcoder Community App: Marathon Match UI Enhancements - Part 1;copilot-i;2019-11-22;Code;2019-11-26;2019-11-29;Cancelled - Failed Review;2019-11-26;1.000,00 US$;66,67;73,67;27;1;0;1;1.500,00 US$
+Java;96Hrs - Spring Data Plugin for OrientDB Part2 - Add Query Support;Copilot-b;2019-10-26;Code;2019-10-28;2019-11-02;Completed;2019-10-31;1.400,00 US$;87,5;89,28;34;2;2;2;2.100,00 US$
+Node.js;Topcoder v5 Challenge API | Nodejs based Wrapper - Part 1;copilot-d;2019-10-26;Code;2019-10-29;2019-11-01;Completed;2019-10-29;1.000,00 US$;91,88;93,59;34;6;6;6;1.500,00 US$
+Node.js,Protractor,QA,TypeScript;REPOST- Topcoder community app - E2E Tests Series 1;copilot-v;2019-10-26;Code;2019-10-28;2019-11-02;Completed;2019-10-30;1.200,00 US$;83,12;90,12;30;3;3;3;1.800,00 US$
+Node.js,Other;Legacy Submission Processor | Reviews and Review Summations;copilot-d;2019-10-26;Code;2019-10-29;2019-10-30;Completed;2019-10-29;1.000,00 US$;90,25;90,25;21;1;1;1;1.500,00 US$
+Node.js,Protractor,QA,TypeScript;Topcoder community app - E2E Tests series 2;copilot-v;2019-10-26;Code;2019-10-28;2019-11-03;Completed;2019-10-31;1.400,00 US$;80,45;82,91;37;4;2;4;2.100,00 US$
+Angular 2+,HTML,JavaScript,Less;[48hr]MyWellmark Member Portal Accessibility Fixes Part 1;copilot-a;2019-10-24;Code;2019-10-26;2019-10-28;Completed;2019-10-26;400,00 US$;35,33;35,33;33;3;1;3;600,00 US$
+Salesforce;Salesforce - Customer story LWC;Copilot-g;2019-10-27;Code;2019-10-31;2019-11-02;Completed;2019-10-31;800,00 US$;88,83;89,5;22;2;2;2;1.200,00 US$
+Python;Repost - Monthly Country Report - Part2;Copilot-b;2019-10-24;Code;2019-10-29;2019-10-30;Completed;2019-10-29;1.000,00 US$;54;55,66;36;2;1;2;1.500,00 US$
+Python;Monthly Country Report - Part4;Copilot-b;2019-10-24;Code;2019-10-26;2019-10-31;Completed;2019-10-30;1.000,00 US$;49,33;49,33;33;2;1;2;1.500,00 US$
+QA;Electrolux Exploratory Website Testing Challenge;copilot-o;2019-10-23;Code;2019-10-24;2019-10-30;Completed;2019-10-26;600,00 US$;57,22;57,22;40;18;18;18;1.100,00 US$
+Python;Technology Evaluation - Python 3 TCP/WebSocket Library;copilot-x;2019-10-28;Code;2019-11-03;2019-11-06;Completed;2019-11-03;800,00 US$;64,44;64,44;65;9;9;9;1.200,00 US$
+Salesforce;Salesforce - User Queue Management LWC;Copilot-g;2019-10-23;Code;2019-10-27;2019-10-28;Completed;2019-10-27;800,00 US$;80,67;86,67;26;1;1;1;1.200,00 US$
+JSON,JavaScript,REST,TypeScript;96H Remote Resource VSCode Extension Development;Copilot-l;2019-10-22;Code;2019-10-26;2019-10-28;Completed;2019-10-26;2.000,00 US$;77,8;79,23;43;5;3;5;3.000,00 US$
+Python;Thor Functional Test Migration - Challenge 1;Copilot-m;2019-10-22;Code;2019-10-29;2019-11-02;Completed;2019-10-29;1.000,00 US$;10;0;26;1;1;1;1.500,00 US$
+QA;Test Scenario and Test Case Summaries Creation for Topcoder - Series 2;copilot-w;2019-10-22;Code;2019-10-24;2019-10-28;Completed;2019-10-25;600,00 US$;55;55;31;9;8;9;900,00 US$
+.NET,C#,QA,Selenium;ABB RCS Automation Testing - Automated testing implementation and report generation - Sprint 1;copilot-f;2019-10-21;Code;2019-10-27;2019-10-29;Completed;2019-10-27;1.200,00 US$;79,72;80,97;32;1;1;1;1.800,00 US$
+Node.js,Other,TypeScript;Topcoder Workflow Extension | Clone Repository enhancements;copilot-d;2019-10-21;Code;2019-10-24;2019-10-27;Completed;2019-10-24;700,00 US$;91,77;93,37;27;6;6;6;1.050,00 US$
+Gitlab,JavaScript,PostgreSQL,Ruby,Ruby on Rails;Gitlab Post Review - Frontend Update;copilot-c;2019-10-21;Code;2019-10-25;2019-10-27;Completed;2019-10-26;1.200,00 US$;100;100;26;1;1;1;1.800,00 US$
+Apache Kafka,MongoDB,Node.js;Topcoder Leaderboards | Update existing apps;copilot-d;2019-10-20;Code;2019-10-23;2019-10-26;Completed;2019-10-23;1.000,00 US$;88,76;88,76;32;5;4;5;1.500,00 US$
+Apache Kafka,MongoDB,Node.js;Topcoder Leaderboards | Update existing apps;copilot-d;2019-10-21;Code;2019-10-23;2019-10-29;Cancelled - Client Request;2019-10-26;1.000,00 US$;0;0;0;0;0;0;1.500,00 US$
+API,Docker,Java,MongoDB,MySQL,PostgreSQL,Spring;Topcoder - Build a Java API starter pack;copilot-n;2019-10-19;Code;2019-10-22;2019-10-25;Completed;2019-10-22;600,00 US$;88,09;93,88;47;9;9;9;900,00 US$
+Docker,Other,Python;AWS Architecture Ideation and Cost Estimates;copilot-y;2019-10-19;Code;2019-10-26;2019-11-06;Completed;2019-10-30;2.400,00 US$;80;80;51;3;3;3;4.950,00 US$
+API,Docker,MongoDB,MySQL,PostgreSQL,Python;Topcoder - Build a Python API starter pack;copilot-n;2019-10-18;Code;2019-10-21;2019-10-24;Completed;2019-10-21;600,00 US$;77,86;82,23;39;5;3;5;900,00 US$
+C++;Hercules C++ Spark App - Webkit reduction;Copilot-m;2019-10-18;Code;2019-10-24;2019-10-27;Cancelled - Zero Submissions;2019-10-24;2.500,00 US$;0;0;27;0;0;0;3.750,00 US$
+API,AWS,Node.js,Swagger;Topbot - Central TC Lambda implementation;copilot-f;2019-10-17;Code;2019-10-22;2019-10-25;Completed;2019-10-22;600,00 US$;94,83;95,83;20;1;1;1;900,00 US$
+.NET,ASP.NET Core ,C#,Docker,MongoDB,PostgreSQL,SQL Server;Topcoder - Build a C# API starter pack;copilot-n;2019-10-17;Code;2019-10-20;2019-10-23;Completed;2019-10-20;600,00 US$;75,83;77,7;23;4;2;4;900,00 US$
+Node.js,Protractor,QA,TypeScript;Topcoder community app - E2E Tests;copilot-v;2019-10-17;Code;2019-10-19;2019-10-26;Cancelled - Failed Review;2019-10-23;600,00 US$;70,81;72,94;30;1;0;1;900,00 US$
+Salesforce;FAST - Salesforce Einstein Dashboard Exploratory Challenge;Copilot-g;2019-10-17;Code;2019-10-20;2019-10-27;Completed;2019-10-20;600,00 US$;95;95;19;2;2;2;900,00 US$
+JavaScript,ReactJS;[72 hrs] Topcoder Community App: Submissions  Tab Sorting Enhancements;copilot-i;2019-10-21;Code;2019-10-24;2019-10-28;Completed;2019-10-24;500,00 US$;88,15;88,3;29;3;2;3;750,00 US$
+Angular 2+,SCSS,TypeScript;360dial - Menu Navigation Angular Component Development;copilot-f;2019-10-16;Code;2019-10-21;2019-10-25;Completed;2019-10-21;1.200,00 US$;73,99;74,54;48;8;5;8;1.800,00 US$
+Elasticsearch,Java;Topcoder Member Profile - Search member by skill and handle;copilot-i;2019-10-16;Code;2019-10-18;2019-10-24;Completed;2019-10-21;600,00 US$;82,52;85,64;36;2;2;2;900,00 US$
+QA;Test for Success Challenge Series - QA Challenge 45 (Regression Testing);copilot-j;2019-10-21;Code;2019-10-24;2019-10-31;Completed;2019-10-24;487,90 US$;27,3;27,3;50;26;9;26;2.935,65 US$
+Data Science,Python;Phase 2 Conflict World Prediction Challenge;copilot-h;2019-10-16;Code;2019-11-06;2019-11-21;Completed;2019-11-07;5.000,00 US$;75;75;76;6;6;6;10.000,00 US$
+Data Science,Python;Phase 2 Urban World Prediction Challenge;copilot-h;2019-10-16;Code;2019-11-06;2019-11-22;Cancelled - Client Request;2019-11-09;5.000,00 US$;0;0;60;1;1;1;10.000,00 US$
+Angular 2+,Node.js;Thor Power Xpert Polymer Upgrade Code Challenge;copilot-u;2019-10-24;Code;2019-11-03;2019-11-06;Cancelled - Zero Submissions;2019-11-03;2.000,00 US$;0;0;36;0;0;0;3.000,00 US$
+ASP.NET Core ,CSS,HTML,JavaScript,Other;Hoherberg Ski School Priority Bug Fixes Part 10 Code Challenge;copilot-u;2019-10-16;Code;2019-10-18;2019-11-01;Cancelled - Zero Submissions;2019-10-22;1.200,00 US$;0;0;25;0;0;0;1.800,00 US$
+Python;Repost - Monthly Country Report - Part2;Copilot-b;2019-10-18;Code;2019-10-20;2019-10-25;Cancelled - Failed Review;2019-10-23;1.000,00 US$;0;3;52;2;0;2;1.500,00 US$
+Python;Monthly Country Report - Part3;Copilot-b;2019-10-18;Code;2019-10-20;2019-10-27;Cancelled - Failed Review;2019-10-24;1.000,00 US$;38,16;44,25;35;2;0;2;1.500,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec56 Task, period #2;copilot-s;2019-10-14;Code;2019-10-28;2019-12-23;Completed;2019-10-28;500,00 US$;52,28;52,28;65;35;35;35;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp56 Task, period #2;copilot-s;2019-10-14;Code;2019-10-28;2019-12-23;Completed;2019-10-28;500,00 US$;52,28;52,28;56;35;35;35;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - prec34 Task, period #2;copilot-s;2019-10-14;Code;2019-10-28;2019-12-19;Completed;2019-10-28;500,00 US$;52,35;52,35;57;34;34;34;1.375,00 US$
+Data Science;Rodeo II Sprint: Sub-Seasonal Climate Forecasting - temp34 Task, period #2;copilot-s;2019-10-14;Code;2019-10-28;2019-12-19;Completed;2019-10-28;500,00 US$;52,28;52,28;61;35;35;35;1.375,00 US$
+Java,Maven;REPOST - Spring Data Plugin for OrientDB Part1;Copilot-b;2019-10-14;Code;2019-10-19;2019-10-23;Cancelled - Failed Review;2019-10-20;1.400,00 US$;49,94;49,94;33;1;0;1;2.100,00 US$
+ASP.NET Core ,CSS,HTML5,JavaScript;Hoherberg Ski School Priority Bug Fixes Part 8 Code Challenge;copilot-u;2019-10-14;Code;2019-10-20;2019-10-22;Completed;2019-10-20;1.200,00 US$;91,15;96,32;34;3;3;3;1.800,00 US$
+Salesforce;Salesforce LWC development - Scale up challenge;Copilot-g;2019-10-14;Code;2019-10-18;2019-10-20;Completed;2019-10-18;400,00 US$;88,66;88,66;31;4;4;4;900,00 US$
+Other;IN PERSON TCO19 - Shell GameChanger Hackathon;copilot-i;2019-10-18;Code;2019-11-16;2019-11-19;Completed;2019-11-15;10.000,00 US$;35,55;40;43;8;3;8;23.000,00 US$
+Node.js,PostgreSQL;Migrate from Informix to Postgres & Build Docker.;;2019-10-11;Code;2019-10-15;2019-10-20;Completed;2019-10-17;500,00 US$;88,93;90,4;34;5;5;5;750,00 US$
+Node.js;Topcoder-X - October 2019 Release Challenge;Copilot-m;2019-10-09;Code;2019-10-14;2019-10-17;Completed;2019-10-14;700,00 US$;84,94;84,94;42;3;2;3;1.050,00 US$
+Data Science,Python;Phase 2 Power World Prediction Challenge;Copilot-m;2019-10-16;Code;2019-11-06;2019-11-22;Completed;2019-11-09;5.000,00 US$;80;80;66;5;5;5;10.000,00 US$
+Data Science,Python;Phase 2 Disaster World Prediction Challenge;Copilot-m;2019-10-16;Code;2019-11-06;2019-11-19;Completed;2019-11-07;5.000,00 US$;68,33;68,33;67;6;6;6;10.000,00 US$
+API,Database,Swagger;[72h] Poseidon LPC - API and Database Design;copilot-c;2019-11-26;Code;2019-11-29;2019-12-02;Completed;2019-11-29;600,00 US$;60;72,5;35;2;1;2;900,00 US$
+JSON,Node.js,ReactJS;Thor DC Starter App Code Quality Enhancements Code Challenge;copilot-u;2019-10-13;Code;2019-10-15;2019-10-21;Completed;2019-10-18;1.800,00 US$;92,18;92,33;52;3;3;3;2.700,00 US$
+Other;SIA - Smart Investment Advisor - QA Fixes;copilot-z;2019-11-11;Code;2019-11-18;2019-11-21;Draft;2019-11-18;1.400,00 US$;0;0;0;0;0;0;2.100,00 US$
